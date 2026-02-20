@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Kamado Tanjirou no Uta (From \"Demon Slayer: Kimetsu no Yaiba\")",
+  "base_artist": "Akano",
+  "createdAt": "2026-02-20T15:28:10.675603Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kamado Tanjirou no Uta (From \"Demon Slayer: Kimetsu no Yaiba\") (Full Version)",
+      "artist": "Akano",
+      "has_synced": true,
+      "path": "select/01_Kamado_Tanjirou_no_Uta_(From__Demon_Slayer__Kimetsu_no_Yaiba_)_(Full_Version)_Akano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kamado Tanjirou no Uta (From \"Demon Slayer: Kimetsu no Yaiba\") [Full Version]",
+      "artist": "Akano",
+      "has_synced": true,
+      "path": "select/02_Kamado_Tanjirou_no_Uta_(From__Demon_Slayer__Kimetsu_no_Yaiba_)_[Full_Version]_Akano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kamado Tanjirou no Uta (From \"Demon Slayer: Kimetsu no Yaiba\") (Full Version)",
+      "artist": "Akano - Topic",
+      "has_synced": true,
+      "path": "select/03_Kamado_Tanjirou_no_Uta_(From__Demon_Slayer__Kimetsu_no_Yaiba_)_(Full_Version)_Akano_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kamado Tanjirou no Uta (From \"Demon Slayer: Kimetsu no Yaiba\")",
+      "artist": "Akano",
+      "has_synced": true,
+      "path": "select/04_Kamado_Tanjirou_no_Uta_(From__Demon_Slayer__Kimetsu_no_Yaiba_)_Akano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kamado Tanjirou no Uta (From \"Demon Slayer: Kimetsu no Yaiba\")",
+      "artist": "Akano",
+      "has_synced": true,
+      "path": "select/05_Kamado_Tanjirou_no_Uta_(From__Demon_Slayer__Kimetsu_no_Yaiba_)_Akano.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kamado Tanjirou no Uta (From \"Demon Slayer: Kimetsu no Yaiba\") [Full Version]",
+      "artist": "Akano",
+      "has_synced": true,
+      "path": "select/06_Kamado_Tanjirou_no_Uta_(From__Demon_Slayer__Kimetsu_no_Yaiba_)_[Full_Version]_Akano.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kamado Tanjirou no Uta (From \"Demon Slayer: Kimetsu no Yaiba\") - Full version",
+      "artist": "ShiroNeko",
+      "has_synced": true,
+      "path": "select/07_Kamado_Tanjirou_no_Uta_(From__Demon_Slayer__Kimetsu_no_Yaiba_)_-_Full_version_ShiroNeko.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kamado Tanjirou no Uta (From \"Demon Slayer: Kimetsu no Yaiba\") [Full Version] (Cover Version)",
+      "artist": "Akano",
+      "has_synced": true,
+      "path": "select/08_Kamado_Tanjirou_no_Uta_(From__Demon_Slayer__Kimetsu_no_Yaiba_)_[Full_Version]_(C_Akano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kamado Tanjirou no Uta (From \"Demon Slayer: Kimetsu no Yaiba\") [Full Version] (Cover Version)",
+      "artist": "Yuki Kajiura, Go Shiina",
+      "has_synced": true,
+      "path": "select/09_Kamado_Tanjirou_no_Uta_(From__Demon_Slayer__Kimetsu_no_Yaiba_)_[Full_Version]_(C_Yuki_Kajiura,_Go_Shiina.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kamado Tanjirou no Uta (From \"Demon Slayer: Kimetsu no Yaiba\")",
+      "artist": "Akano",
+      "has_synced": false,
+      "path": "select/pl_01_Kamado_Tanjirou_no_Uta_(From__Demon_Slayer__Kimetsu_no_Yaiba_)_Akano.txt"
+    }
+  ]
+}
